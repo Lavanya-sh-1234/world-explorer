@@ -1,0 +1,61 @@
+[
+    {
+      "id": 1,
+      "countryName": "World",
+      "capital": "N/A",
+      "population": 8000000000,
+      "interestingFact": "The world has over 200 recognized countries."
+    },
+    {
+      "id": 2,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1400000000,
+      "interestingFact": "India is the largest democracy in the world."
+    },
+    {
+      "id": 3,
+      "countryName": "United States",
+      "capital": "Washington, D.C.",
+      "population": 332000000,
+      "interestingFact": "The U.S. has the world's largest economy."
+    },
+    {
+      "id": 4,
+      "countryName": "France",
+      "capital": "Paris",
+      "population": 68000000,
+      "interestingFact": "France is known as the world's top tourist destination."
+    },
+    {
+      "id": 5,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": 126000000,
+      "interestingFact": "Tokyo is the most populous metropolitan area in the world."
+    },
+    {
+      "id": 6,
+      "countryName": "Germany",
+      "capital": "Berlin",
+      "population": 83000000,
+      "interestingFact": "Germany is home to the world's oldest universal health care system."
+    },
+    {
+      "id": 7,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 26000000,
+      "interestingFact": "Australia is home to the Great Barrier Reef, the world's largest coral reef system."
+    },
+    {
+      "id": 8,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "population": 216000000,
+      "interestingFact": "Brazil has the Amazon rainforest, the world's largest tropical rainforest."
+    }
+  ]
+  
+   
+  
