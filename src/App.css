@@ -48,8 +48,6 @@ a {
   }
 }
 
-
-
 button {
   display: flex;
   gap: 1.2rem;
@@ -565,7 +563,7 @@ contact us Page ends here
   .grid-four-cols,
   .grid-three-cols,
   .grid-two-cols {
-    grid-template-columns: 1fr; 
+    grid-template-columns: 1fr;
   }
 
   .grid--cols {
@@ -595,7 +593,8 @@ contact us Page ends here
 }
 
 .loader-section {
-  height: 50vh;
+  height: 100vh;
+  width: 100vw;
   display: flex;
   justify-content: center;
   align-items: center;
